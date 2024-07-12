@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://exam.ioe.edu.np</id>
+  <title>IOE Exam Website RSS Feed</title>
+  <updated>2024-07-12T14:33:16.724506+00:00</updated>
+  <link href="http://exam.ioe.edu.np"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <logo>http://exam.ioe.edu.np/favicon.ico</logo>
+  <subtitle>Scrapes exam.ioe.edu.np and generates RSS feed of notices</subtitle>
+  <entry>
+    <id>28639</id>
+    <title>Result: M.Sc. I year II part exam held on 2080 Chaitra</title>
+    <updated>2024-07-12T14:33:16.726037+00:00</updated>
+    <link href="http://exam.ioe.edu.np/Images/NotificationsFile/39.2295338Result.pdf"/>
+    <published>2024-12-01T00:00:00+05:45</published>
+  </entry>
+  <entry>
+    <id>28640</id>
+    <title>Re-totalling Result: BE/BAR I, II &amp; III year II part (RB) for 2080 Chaitra</title>
+    <updated>2024-07-12T14:33:16.726151+00:00</updated>
+    <link href="http://exam.ioe.edu.np/Images/NotificationsFile/19.2959342Retotaling.pdf"/>
+    <published>2024-12-01T00:00:00+05:45</published>
+  </entry>
+  <entry>
+    <id>28636</id>
+    <title>Exam Center: BE/BAR Last Semester (Back) for 2081 Shrwan</title>
+    <updated>2024-07-12T14:33:16.726242+00:00</updated>
+    <link href="http://exam.ioe.edu.np/Images/NotificationsFile/58.8969694Exam Center.pdf"/>
+    <published>2024-11-01T00:00:00+05:45</published>
+  </entry>
+  <entry>
+    <id>28637</id>
+    <title>Online Form: BE/BAR All Year I Part (Regular/Back) for 2081 Bhadra</title>
+    <updated>2024-07-12T14:33:16.726323+00:00</updated>
+    <link href="http://exam.ioe.edu.np/Images/NotificationsFile/37.3437560Exam Form.pdf"/>
+    <published>2024-11-01T00:00:00+05:45</published>
+  </entry>
+  <entry>
+    <id>28638</id>
+    <title>Routine: BE/BAR All Year I Part (Regular/Back) for 2081 Bhadra</title>
+    <updated>2024-07-12T14:33:16.726396+00:00</updated>
+    <link href="http://exam.ioe.edu.np/Images/NotificationsFile/41.9944143IMG_0001.pdf"/>
+    <published>2024-11-01T00:00:00+05:45</published>
+  </entry>
+  <entry>
+    <id>28635</id>
+    <title>Result: BE/BAR II year I part exam held on 2081 Baishakh</title>
+    <updated>2024-07-12T14:33:16.726467+00:00</updated>
+    <link href="http://exam.ioe.edu.np/Images/NotificationsFile/27.9879637be 2-1.pdf"/>
+    <published>2024-05-01T00:00:00+05:45</published>
+  </entry>
+  <entry>
+    <id>28633</id>
+    <title>Result: BE/BAR III year I part exam held on 2081 Baishakh</title>
+    <updated>2024-07-12T14:33:16.726534+00:00</updated>
+    <link href="http://exam.ioe.edu.np/Images/NotificationsFile/14.3879823be 3-1.pdf"/>
+    <published>2024-04-01T00:00:00+05:45</published>
+  </entry>
+  <entry>
+    <id>28634</id>
+    <title>Result: M.Sc. I year II part exam held on 2080 Chaitra</title>
+    <updated>2024-07-12T14:33:16.726617+00:00</updated>
+    <link href="http://exam.ioe.edu.np/Images/NotificationsFile/51.3894909msc 1-2.pdf"/>
+    <published>2024-04-01T00:00:00+05:45</published>
+  </entry>
+  <entry>
+    <id>28630</id>
+    <title>Result: BE/BAR IV/I &amp; V/I exam held on 2081 Baishakh</title>
+    <updated>2024-07-12T14:33:16.726686+00:00</updated>
+    <link href="http://exam.ioe.edu.np/Images/NotificationsFile/45.5436792BE 4-1.pdf"/>
+    <published>2024-02-01T00:00:00+05:45</published>
+  </entry>
+  <entry>
+    <id>28631</id>
+    <title>Result: M.Sc. I year II part exam held on 2080 Chaitra</title>
+    <updated>2024-07-12T14:33:16.726751+00:00</updated>
+    <link href="http://exam.ioe.edu.np/Images/NotificationsFile/59.9748567MSc 1-2.pdf"/>
+    <published>2024-02-01T00:00:00+05:45</published>
+  </entry>
+</feed>

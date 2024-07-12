@@ -1,0 +1,27 @@
+name: Scrape and generate feed
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+    - name: Install dependencies & Run Script
+      run: |
+        pip install -r requirements.txt
+        python scrape.py
+    - name: Commit changes
+      run: |
+        git add **
+        git commit -m "Update feed"
+        git push
+      env:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
