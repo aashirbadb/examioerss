@@ -3,14 +3,14 @@ import requests
 from feedgen.feed import FeedGenerator
 from datetime import datetime
 from zoneinfo import ZoneInfo
+import re
 
 URL = "http://exam.ioe.edu.np"
-DATE_FORMAT = "%A, %B %m, %Y"
+DATE_FORMAT = "%A, %B %d, %Y"
 TIMEZONE = ZoneInfo("Asia/Kathmandu")
 
 def parse_date(date):
     return datetime.strptime(date, DATE_FORMAT).astimezone(TIMEZONE)
-
 
 
 res = requests.get(URL)
@@ -34,7 +34,7 @@ if res.ok:
         id = row[3].find("a").get("href").split("/")[-1]
         item.id(id)
 
-        date = datetime.strptime(row[2].get_text().strip(), DATE_FORMAT).astimezone(TIMEZONE)
+        date = parse_date(row[2].get_text().strip())
         item.published(date)
 
         link = URL + row[1].find("a").get("href")
