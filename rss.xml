@@ -11,7 +11,19 @@
       <title>IOE Exam Website RSS Feed</title>
       <link>http://exam.ioe.edu.np</link>
     </image>
-    <lastBuildDate>Tue, 13 Aug 2024 11:15:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 12:34:16 +0000</lastBuildDate>
+    <item>
+      <title>Routine: MSc I Year I Part for 2081 Bhadra (First Revised)</title>
+      <link>http://exam.ioe.edu.np/Images/NotificationsFile/14.0141149MSC I-I.pdf</link>
+      <guid isPermaLink="false">28653</guid>
+      <pubDate>Tue, 13 Aug 2024 05:45:00 +0545</pubDate>
+    </item>
+    <item>
+      <title>Routine: MSc II Year I Part for 2081 Bhadra (First Revised)</title>
+      <link>http://exam.ioe.edu.np/Images/NotificationsFile/27.0179340MSC II-I.pdf</link>
+      <guid isPermaLink="false">28654</guid>
+      <pubDate>Tue, 13 Aug 2024 05:45:00 +0545</pubDate>
+    </item>
     <item>
       <title>Routine: BE/BAR All Year II Part 2081 Ashwin (Except Last Semester)</title>
       <link>http://exam.ioe.edu.np/Images/NotificationsFile/38.2417170Routine.pdf</link>
@@ -59,18 +71,6 @@
       <link>http://exam.ioe.edu.np/Images/NotificationsFile/40.6936753thesis 2-2.pdf</link>
       <guid isPermaLink="false">28645</guid>
       <pubDate>Wed, 31 Jul 2024 05:45:00 +0545</pubDate>
-    </item>
-    <item>
-      <title>Result: M.Sc. I year II Part Exam Held On 2080 Chaitra</title>
-      <link>http://exam.ioe.edu.np/Images/NotificationsFile/25.0359253msc 1-2.pdf</link>
-      <guid isPermaLink="false">28641</guid>
-      <pubDate>Wed, 24 Jul 2024 05:45:00 +0545</pubDate>
-    </item>
-    <item>
-      <title>Result: M.Sc. II year II Part (Thesis) Exam Held On 2080 Chaitra</title>
-      <link>http://exam.ioe.edu.np/Images/NotificationsFile/19.4063258thesis.pdf</link>
-      <guid isPermaLink="false">28642</guid>
-      <pubDate>Wed, 24 Jul 2024 05:45:00 +0545</pubDate>
     </item>
   </channel>
 </rss>
