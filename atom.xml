@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://exam.ioe.edu.np</id>
   <title>IOE Exam Website RSS Feed</title>
-  <updated>2024-08-18T21:14:47.220397+00:00</updated>
+  <updated>2024-08-18T22:16:05.761512+00:00</updated>
   <link href="http://exam.ioe.edu.np"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>http://exam.ioe.edu.np/favicon.ico</logo>
@@ -10,70 +10,70 @@
   <entry>
     <id>28656</id>
     <title>Routine: BE/BAR  I year II part (Regular) - 2081 Asoj-Kartik</title>
-    <updated>2024-08-18T21:14:47.220453+00:00</updated>
+    <updated>2024-08-18T22:16:05.761593+00:00</updated>
     <link href="http://exam.ioe.edu.np/Images/NotificationsFile/16.6459816IMG_0001.pdf"/>
     <published>2024-08-16T05:45:00+05:45</published>
   </entry>
   <entry>
     <id>28655</id>
     <title>Re-Totaling Result: M. Sc I Year II Part Exam Held On 2080 Chaitra</title>
-    <updated>2024-08-18T21:14:47.267762+00:00</updated>
+    <updated>2024-08-18T22:16:05.768202+00:00</updated>
     <link href="http://exam.ioe.edu.np/Images/NotificationsFile/09.3005917IMG_0001.pdf"/>
     <published>2024-08-15T05:45:00+05:45</published>
   </entry>
   <entry>
     <id>28653</id>
     <title>Routine: MSc I Year I Part for 2081 Bhadra (First Revised)</title>
-    <updated>2024-08-18T21:14:47.267852+00:00</updated>
+    <updated>2024-08-18T22:16:05.768292+00:00</updated>
     <link href="http://exam.ioe.edu.np/Images/NotificationsFile/14.0141149MSC I-I.pdf"/>
     <published>2024-08-13T05:45:00+05:45</published>
   </entry>
   <entry>
     <id>28654</id>
     <title>Routine: MSc II Year I Part for 2081 Bhadra (First Revised)</title>
-    <updated>2024-08-18T21:14:47.267918+00:00</updated>
+    <updated>2024-08-18T22:16:05.768361+00:00</updated>
     <link href="http://exam.ioe.edu.np/Images/NotificationsFile/27.0179340MSC II-I.pdf"/>
     <published>2024-08-13T05:45:00+05:45</published>
   </entry>
   <entry>
     <id>28651</id>
     <title>Routine: BE/BAR All Year II Part 2081 Ashwin (Except Last Semester)</title>
-    <updated>2024-08-18T21:14:47.267979+00:00</updated>
+    <updated>2024-08-18T22:16:05.768424+00:00</updated>
     <link href="http://exam.ioe.edu.np/Images/NotificationsFile/38.2417170Routine.pdf"/>
     <published>2024-08-11T05:45:00+05:45</published>
   </entry>
   <entry>
     <id>28652</id>
     <title>Online Form: BE/BAR All Year II Part (Back) for 2081 Ashwin (Except Last Semester)</title>
-    <updated>2024-08-18T21:14:47.268048+00:00</updated>
+    <updated>2024-08-18T22:16:05.768493+00:00</updated>
     <link href="http://exam.ioe.edu.np/Images/NotificationsFile/18.2568692Exam form notice.pdf"/>
     <published>2024-08-11T05:45:00+05:45</published>
   </entry>
   <entry>
     <id>28649</id>
     <title>Exam Center: BE/BAR All Year I Part 2081 Bhadra</title>
-    <updated>2024-08-18T21:14:47.268105+00:00</updated>
+    <updated>2024-08-18T22:16:05.768554+00:00</updated>
     <link href="http://exam.ioe.edu.np/Images/NotificationsFile/04.0851350IMG_0001.pdf"/>
     <published>2024-08-09T05:45:00+05:45</published>
   </entry>
   <entry>
     <id>28646</id>
     <title>Routine: MSc I Year I Part  for 2081 Bhadra</title>
-    <updated>2024-08-18T21:14:47.268161+00:00</updated>
+    <updated>2024-08-18T22:16:05.768613+00:00</updated>
     <link href="http://exam.ioe.edu.np/Images/NotificationsFile/51.5127594IMG_0002.pdf"/>
     <published>2024-08-05T05:45:00+05:45</published>
   </entry>
   <entry>
     <id>28647</id>
     <title>Routine: MSc  II Year I Part  for 2081 Bhadra</title>
-    <updated>2024-08-18T21:14:47.268218+00:00</updated>
+    <updated>2024-08-18T22:16:05.768672+00:00</updated>
     <link href="http://exam.ioe.edu.np/Images/NotificationsFile/41.8677577IMG_0003.pdf"/>
     <published>2024-08-05T05:45:00+05:45</published>
   </entry>
   <entry>
     <id>28648</id>
     <title>Online Form: MSc  All Year I Part  for 2081 Bhadra</title>
-    <updated>2024-08-18T21:14:47.268273+00:00</updated>
+    <updated>2024-08-18T22:16:05.768729+00:00</updated>
     <link href="http://exam.ioe.edu.np/Images/NotificationsFile/37.2086750IMG_0004.pdf"/>
     <published>2024-08-05T05:45:00+05:45</published>
   </entry>
