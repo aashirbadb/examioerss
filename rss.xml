@@ -11,7 +11,19 @@
       <title>IOE Exam Website RSS Feed</title>
       <link>http://exam.ioe.edu.np</link>
     </image>
-    <lastBuildDate>Wed, 21 Aug 2024 09:18:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 10:18:04 +0000</lastBuildDate>
+    <item>
+      <title>Routine: MSc I Year I Part for 2081 Bhadra (Second Revised)</title>
+      <link>http://exam.ioe.edu.np/Images/NotificationsFile/07.4186227MSC 1-1.pdf</link>
+      <guid isPermaLink="false">28658</guid>
+      <pubDate>Wed, 21 Aug 2024 05:45:00 +0545</pubDate>
+    </item>
+    <item>
+      <title>Routine: MSc II Year I Part for 2081 Bhadra (Second Revised)</title>
+      <link>http://exam.ioe.edu.np/Images/NotificationsFile/45.6576737IMG_0001.pdf</link>
+      <guid isPermaLink="false">28659</guid>
+      <pubDate>Wed, 21 Aug 2024 05:45:00 +0545</pubDate>
+    </item>
     <item>
       <title>Online Form : BE/BAR (New Course) I Year II Part (Regular) for 2081 Asoj/Kartik</title>
       <link>http://exam.ioe.edu.np/Images/NotificationsFile/11.4898126notice.pdf</link>
@@ -59,18 +71,6 @@
       <link>http://exam.ioe.edu.np/Images/NotificationsFile/04.0851350IMG_0001.pdf</link>
       <guid isPermaLink="false">28649</guid>
       <pubDate>Fri, 09 Aug 2024 05:45:00 +0545</pubDate>
-    </item>
-    <item>
-      <title>Routine: MSc I Year I Part  for 2081 Bhadra</title>
-      <link>http://exam.ioe.edu.np/Images/NotificationsFile/51.5127594IMG_0002.pdf</link>
-      <guid isPermaLink="false">28646</guid>
-      <pubDate>Mon, 05 Aug 2024 05:45:00 +0545</pubDate>
-    </item>
-    <item>
-      <title>Routine: MSc  II Year I Part  for 2081 Bhadra</title>
-      <link>http://exam.ioe.edu.np/Images/NotificationsFile/41.8677577IMG_0003.pdf</link>
-      <guid isPermaLink="false">28647</guid>
-      <pubDate>Mon, 05 Aug 2024 05:45:00 +0545</pubDate>
     </item>
   </channel>
 </rss>
