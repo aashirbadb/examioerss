@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://exam.ioe.edu.np</id>
   <title>IOE Exam Website RSS Feed</title>
-  <updated>2024-09-12T23:19:32.829097+00:00</updated>
+  <updated>2024-09-13T01:21:11.900142+00:00</updated>
   <link href="http://exam.ioe.edu.np"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>http://exam.ioe.edu.np/favicon.ico</logo>
@@ -10,70 +10,70 @@
   <entry>
     <id>28661</id>
     <title>Exam Center: BE/BAR I Year II Part (Regular) for 2081 Asoj/Kartik</title>
-    <updated>2024-09-12T23:19:32.829150+00:00</updated>
+    <updated>2024-09-13T01:21:11.900200+00:00</updated>
     <link href="http://exam.ioe.edu.np/Images/NotificationsFile/01.98069571-2 Regular.pdf"/>
     <published>2024-09-11T05:45:00+05:45</published>
   </entry>
   <entry>
     <id>28662</id>
     <title>Exam Center: BE/BAR All Year II Part except Final Year (Backpaper) for 2081 Asoj</title>
-    <updated>2024-09-12T23:19:32.834709+00:00</updated>
+    <updated>2024-09-13T01:21:11.905929+00:00</updated>
     <link href="http://exam.ioe.edu.np/Images/NotificationsFile/Exam Center_ BE_BAR All Year II Part except Final Year (Backpaper) for 2081 Baishakh.pdf"/>
     <published>2024-09-11T05:45:00+05:45</published>
   </entry>
   <entry>
     <id>28660</id>
     <title>Question Format for BE/BAR I/II - 2080 Batch</title>
-    <updated>2024-09-12T23:19:32.834799+00:00</updated>
+    <updated>2024-09-13T01:21:11.906018+00:00</updated>
     <link href="http://exam.ioe.edu.np/Images/NotificationsFile/09.1189989BE Question Format 2080 Batch2_compressed.pdf"/>
     <published>2024-09-10T05:45:00+05:45</published>
   </entry>
   <entry>
     <id>28658</id>
     <title>Routine: MSc I Year I Part for 2081 Bhadra (Second Revised)</title>
-    <updated>2024-09-12T23:19:32.834868+00:00</updated>
+    <updated>2024-09-13T01:21:11.906107+00:00</updated>
     <link href="http://exam.ioe.edu.np/Images/NotificationsFile/07.4186227MSC 1-1.pdf"/>
     <published>2024-08-21T05:45:00+05:45</published>
   </entry>
   <entry>
     <id>28659</id>
     <title>Routine: MSc II Year I Part for 2081 Bhadra (Second Revised)</title>
-    <updated>2024-09-12T23:19:32.834930+00:00</updated>
+    <updated>2024-09-13T01:21:11.906178+00:00</updated>
     <link href="http://exam.ioe.edu.np/Images/NotificationsFile/45.6576737IMG_0001.pdf"/>
     <published>2024-08-21T05:45:00+05:45</published>
   </entry>
   <entry>
     <id>28657</id>
     <title>Online Form : BE/BAR (New Course) I Year II Part (Regular) for 2081 Asoj/Kartik</title>
-    <updated>2024-09-12T23:19:32.834992+00:00</updated>
+    <updated>2024-09-13T01:21:11.906242+00:00</updated>
     <link href="http://exam.ioe.edu.np/Images/NotificationsFile/11.4898126notice.pdf"/>
     <published>2024-08-20T05:45:00+05:45</published>
   </entry>
   <entry>
     <id>28656</id>
     <title>Routine: BE/BAR  I year II part (Regular) - 2081 Asoj-Kartik</title>
-    <updated>2024-09-12T23:19:32.835051+00:00</updated>
+    <updated>2024-09-13T01:21:11.906303+00:00</updated>
     <link href="http://exam.ioe.edu.np/Images/NotificationsFile/16.6459816IMG_0001.pdf"/>
     <published>2024-08-16T05:45:00+05:45</published>
   </entry>
   <entry>
     <id>28655</id>
     <title>Re-Totaling Result: M. Sc I Year II Part Exam Held On 2080 Chaitra</title>
-    <updated>2024-09-12T23:19:32.835107+00:00</updated>
+    <updated>2024-09-13T01:21:11.906366+00:00</updated>
     <link href="http://exam.ioe.edu.np/Images/NotificationsFile/09.3005917IMG_0001.pdf"/>
     <published>2024-08-15T05:45:00+05:45</published>
   </entry>
   <entry>
     <id>28653</id>
     <title>Routine: MSc I Year I Part for 2081 Bhadra (First Revised)</title>
-    <updated>2024-09-12T23:19:32.835163+00:00</updated>
+    <updated>2024-09-13T01:21:11.906424+00:00</updated>
     <link href="http://exam.ioe.edu.np/Images/NotificationsFile/14.0141149MSC I-I.pdf"/>
     <published>2024-08-13T05:45:00+05:45</published>
   </entry>
   <entry>
     <id>28654</id>
     <title>Routine: MSc II Year I Part for 2081 Bhadra (First Revised)</title>
-    <updated>2024-09-12T23:19:32.835254+00:00</updated>
+    <updated>2024-09-13T01:21:11.906488+00:00</updated>
     <link href="http://exam.ioe.edu.np/Images/NotificationsFile/27.0179340MSC II-I.pdf"/>
     <published>2024-08-13T05:45:00+05:45</published>
   </entry>
