@@ -11,7 +11,13 @@
       <title>IOE Exam Website RSS Feed</title>
       <link>http://exam.ioe.edu.np</link>
     </image>
-    <lastBuildDate>Fri, 20 Sep 2024 07:18:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 08:23:31 +0000</lastBuildDate>
+    <item>
+      <title>Model Question for Strength of Materials (BCE I-II 2080 Batch)</title>
+      <link>http://exam.ioe.edu.np/Images/NotificationsFile/38.4676252Model strength of material.pdf</link>
+      <guid isPermaLink="false">28663</guid>
+      <pubDate>Fri, 20 Sep 2024 05:45:00 +0545</pubDate>
+    </item>
     <item>
       <title>Exam Center: BE/BAR I Year II Part (Regular) for 2081 Asoj/Kartik</title>
       <link>http://exam.ioe.edu.np/Images/NotificationsFile/01.98069571-2 Regular.pdf</link>
@@ -64,12 +70,6 @@
       <title>Routine: MSc I Year I Part for 2081 Bhadra (First Revised)</title>
       <link>http://exam.ioe.edu.np/Images/NotificationsFile/14.0141149MSC I-I.pdf</link>
       <guid isPermaLink="false">28653</guid>
-      <pubDate>Tue, 13 Aug 2024 05:45:00 +0545</pubDate>
-    </item>
-    <item>
-      <title>Routine: MSc II Year I Part for 2081 Bhadra (First Revised)</title>
-      <link>http://exam.ioe.edu.np/Images/NotificationsFile/27.0179340MSC II-I.pdf</link>
-      <guid isPermaLink="false">28654</guid>
       <pubDate>Tue, 13 Aug 2024 05:45:00 +0545</pubDate>
     </item>
   </channel>
