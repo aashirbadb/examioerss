@@ -11,7 +11,13 @@
       <title>IOE Exam Website RSS Feed</title>
       <link>http://exam.ioe.edu.np</link>
     </image>
-    <lastBuildDate>Sat, 28 Sep 2024 12:34:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2024 13:20:50 +0000</lastBuildDate>
+    <item>
+      <title>Urgent Notice About Exam Postpond</title>
+      <link>http://exam.ioe.edu.np/Images/NotificationsFile/20.0919461IMG_0001.pdf</link>
+      <guid isPermaLink="false">28665</guid>
+      <pubDate>Sat, 28 Sep 2024 05:45:00 +0545</pubDate>
+    </item>
     <item>
       <title>Result: BE IV year II &amp; BAR V/II part backpaper exam held on 2081 Shrawan</title>
       <link>http://exam.ioe.edu.np/Images/NotificationsFile/50.1679505be 4-2.pdf</link>
@@ -65,12 +71,6 @@
       <link>http://exam.ioe.edu.np/Images/NotificationsFile/16.6459816IMG_0001.pdf</link>
       <guid isPermaLink="false">28656</guid>
       <pubDate>Fri, 16 Aug 2024 05:45:00 +0545</pubDate>
-    </item>
-    <item>
-      <title>Re-Totaling Result: M. Sc I Year II Part Exam Held On 2080 Chaitra</title>
-      <link>http://exam.ioe.edu.np/Images/NotificationsFile/09.3005917IMG_0001.pdf</link>
-      <guid isPermaLink="false">28655</guid>
-      <pubDate>Thu, 15 Aug 2024 05:45:00 +0545</pubDate>
     </item>
   </channel>
 </rss>
