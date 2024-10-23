@@ -11,7 +11,13 @@
       <title>IOE Exam Website RSS Feed</title>
       <link>http://exam.ioe.edu.np</link>
     </image>
-    <lastBuildDate>Wed, 23 Oct 2024 11:15:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 12:37:20 +0000</lastBuildDate>
+    <item>
+      <title>Re-Totaling Result: BE/BAR Last Semester Exam Held On 2081 Shrwan</title>
+      <link>http://exam.ioe.edu.np/Images/NotificationsFile/31.3850393Retotaling.pdf</link>
+      <guid isPermaLink="false">28670</guid>
+      <pubDate>Wed, 23 Oct 2024 05:45:00 +0545</pubDate>
+    </item>
     <item>
       <title>Online Form : BE/BAR (New Course) I Year I Part (Back) for 2081 Kartik</title>
       <link>http://exam.ioe.edu.np/Images/NotificationsFile/22.9707442IMG_0001.pdf</link>
@@ -65,12 +71,6 @@
       <link>http://exam.ioe.edu.np/Images/NotificationsFile/09.1189989BE Question Format 2080 Batch2_compressed.pdf</link>
       <guid isPermaLink="false">28660</guid>
       <pubDate>Tue, 10 Sep 2024 05:45:00 +0545</pubDate>
-    </item>
-    <item>
-      <title>Routine: MSc I Year I Part for 2081 Bhadra (Second Revised)</title>
-      <link>http://exam.ioe.edu.np/Images/NotificationsFile/07.4186227MSC 1-1.pdf</link>
-      <guid isPermaLink="false">28658</guid>
-      <pubDate>Wed, 21 Aug 2024 05:45:00 +0545</pubDate>
     </item>
   </channel>
 </rss>
