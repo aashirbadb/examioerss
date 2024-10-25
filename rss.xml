@@ -11,7 +11,13 @@
       <title>IOE Exam Website RSS Feed</title>
       <link>http://exam.ioe.edu.np</link>
     </image>
-    <lastBuildDate>Fri, 25 Oct 2024 11:15:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 12:37:13 +0000</lastBuildDate>
+    <item>
+      <title>Re-totalling Result: BE/BAR I/I (Regular) exam held on 2081 Baishakh</title>
+      <link>http://exam.ioe.edu.np/Images/NotificationsFile/48.0030068re-totalling result.pdf</link>
+      <guid isPermaLink="false">28671</guid>
+      <pubDate>Fri, 25 Oct 2024 05:45:00 +0545</pubDate>
+    </item>
     <item>
       <title>Re-Totaling Result: BE/BAR Last Semester Exam Held On 2081 Shrwan</title>
       <link>http://exam.ioe.edu.np/Images/NotificationsFile/31.3850393Retotaling.pdf</link>
@@ -65,12 +71,6 @@
       <link>http://exam.ioe.edu.np/Images/NotificationsFile/Exam Center_ BE_BAR All Year II Part except Final Year (Backpaper) for 2081 Baishakh.pdf</link>
       <guid isPermaLink="false">28662</guid>
       <pubDate>Wed, 11 Sep 2024 05:45:00 +0545</pubDate>
-    </item>
-    <item>
-      <title>Question Format for BE/BAR I/II - 2080 Batch</title>
-      <link>http://exam.ioe.edu.np/Images/NotificationsFile/09.1189989BE Question Format 2080 Batch2_compressed.pdf</link>
-      <guid isPermaLink="false">28660</guid>
-      <pubDate>Tue, 10 Sep 2024 05:45:00 +0545</pubDate>
     </item>
   </channel>
 </rss>
