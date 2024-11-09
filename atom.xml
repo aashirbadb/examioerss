@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://exam.ioe.edu.np</id>
   <title>IOE Exam Website RSS Feed</title>
-  <updated>2024-11-09T20:18:07.451255+00:00</updated>
+  <updated>2024-11-09T21:16:40.799263+00:00</updated>
   <link href="http://exam.ioe.edu.np"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <logo>http://exam.ioe.edu.np/favicon.ico</logo>
@@ -10,70 +10,70 @@
   <entry>
     <id>28672</id>
     <title>Exam Center: BE/BAR I Year I Part (New Course) for 2081 Kartik</title>
-    <updated>2024-11-09T20:18:07.451308+00:00</updated>
+    <updated>2024-11-09T21:16:40.799317+00:00</updated>
     <link href="http://exam.ioe.edu.np/Images/NotificationsFile/37.8075999Exam Center.pdf"/>
     <published>2024-11-05T05:45:00+05:45</published>
   </entry>
   <entry>
     <id>28671</id>
     <title>Re-totalling Result: BE/BAR I/I (Regular) exam held on 2081 Baishakh</title>
-    <updated>2024-11-09T20:18:07.457112+00:00</updated>
+    <updated>2024-11-09T21:16:40.805028+00:00</updated>
     <link href="http://exam.ioe.edu.np/Images/NotificationsFile/48.0030068re-totalling result.pdf"/>
     <published>2024-10-25T05:45:00+05:45</published>
   </entry>
   <entry>
     <id>28670</id>
     <title>Re-Totaling Result: BE/BAR Last Semester Exam Held On 2081 Shrwan</title>
-    <updated>2024-11-09T20:18:07.457203+00:00</updated>
+    <updated>2024-11-09T21:16:40.805118+00:00</updated>
     <link href="http://exam.ioe.edu.np/Images/NotificationsFile/31.3850393Retotaling.pdf"/>
     <published>2024-10-23T05:45:00+05:45</published>
   </entry>
   <entry>
     <id>28668</id>
     <title>Online Form : BE/BAR (New Course) I Year I Part (Back) for 2081 Kartik</title>
-    <updated>2024-11-09T20:18:07.457272+00:00</updated>
+    <updated>2024-11-09T21:16:40.805187+00:00</updated>
     <link href="http://exam.ioe.edu.np/Images/NotificationsFile/22.9707442IMG_0001.pdf"/>
     <published>2024-10-01T05:45:00+05:45</published>
   </entry>
   <entry>
     <id>28669</id>
     <title>Routine: BE/BAR  (New Course) I year I part (Back) - 2081 Kartik</title>
-    <updated>2024-11-09T20:18:07.457334+00:00</updated>
+    <updated>2024-11-09T21:16:40.805250+00:00</updated>
     <link href="http://exam.ioe.edu.np/Images/NotificationsFile/05.0919295IMG_0001.pdf"/>
     <published>2024-10-01T05:45:00+05:45</published>
   </entry>
   <entry>
     <id>28666</id>
     <title>Result: BE/BAR I year I  part New Course  exam held on 2081 Baishakh</title>
-    <updated>2024-11-09T20:18:07.457397+00:00</updated>
+    <updated>2024-11-09T21:16:40.805312+00:00</updated>
     <link href="http://exam.ioe.edu.np/Images/NotificationsFile/09.9030434Result notice 2081-06-14.pdf"/>
     <published>2024-09-30T05:45:00+05:45</published>
   </entry>
   <entry>
     <id>28665</id>
     <title>Urgent Notice About Exam Postpond</title>
-    <updated>2024-11-09T20:18:07.457456+00:00</updated>
+    <updated>2024-11-09T21:16:40.805371+00:00</updated>
     <link href="http://exam.ioe.edu.np/Images/NotificationsFile/20.0919461IMG_0001.pdf"/>
     <published>2024-09-28T05:45:00+05:45</published>
   </entry>
   <entry>
     <id>28664</id>
     <title>Result: BE IV year II &amp; BAR V/II part backpaper exam held on 2081 Shrawan</title>
-    <updated>2024-11-09T20:18:07.457512+00:00</updated>
+    <updated>2024-11-09T21:16:40.805426+00:00</updated>
     <link href="http://exam.ioe.edu.np/Images/NotificationsFile/50.1679505be 4-2.pdf"/>
     <published>2024-09-22T05:45:00+05:45</published>
   </entry>
   <entry>
     <id>28663</id>
     <title>Model Question for Strength of Materials (BCE I-II 2080 Batch)</title>
-    <updated>2024-11-09T20:18:07.457569+00:00</updated>
+    <updated>2024-11-09T21:16:40.805484+00:00</updated>
     <link href="http://exam.ioe.edu.np/Images/NotificationsFile/38.4676252Model strength of material.pdf"/>
     <published>2024-09-20T05:45:00+05:45</published>
   </entry>
   <entry>
     <id>28661</id>
     <title>Exam Center: BE/BAR I Year II Part (Regular) for 2081 Asoj/Kartik</title>
-    <updated>2024-11-09T20:18:07.457625+00:00</updated>
+    <updated>2024-11-09T21:16:40.805540+00:00</updated>
     <link href="http://exam.ioe.edu.np/Images/NotificationsFile/01.98069571-2 Regular.pdf"/>
     <published>2024-09-11T05:45:00+05:45</published>
   </entry>
